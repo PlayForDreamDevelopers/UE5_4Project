@@ -8,3 +8,7 @@ Enable this SDK with OpenXR plugin disabled and YvrOpenXR plugin disabled.
 
 YvrOpenXR plugin: 2.0.0
 Enable this SDK with OpenXR plugin enabled and YvrXR plugin disabled.
+
+Levels:
+VRTemplateMap: Unreal template level(PFDM version)
+CameraMap: access camera image(only available on enterprise system version)
